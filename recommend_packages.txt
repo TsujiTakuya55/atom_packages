@@ -5,3 +5,4 @@ minimap-highlight-selected
 highlight-selected
 file-icons
 autocomplete-paths
+editorconfig
