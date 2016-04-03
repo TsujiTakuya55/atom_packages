@@ -1,0 +1,57 @@
+# This file is used by Flex Tool Bar to create buttons on your Tool Bar.
+# For more information how to use this package and create your own buttons,
+#   read the documentation on https://atom.io/packages/flex-tool-bar
+
+[
+  {
+    type: "button"
+    icon: "columns"
+    iconset: "fa"
+    callback: ["pane:split-right"]
+  }
+
+  # 区切り線
+  {
+    type: "spacer"
+  }
+
+  #  {
+  #   type: "button"
+  #   icon: "circuit-board"
+  #   callback: "git-diff:toggle-diff-list"
+  #   style:
+  #     color: "#FA4F28"
+  # }
+
+  # 区切り線
+  {
+    type: "spacer"
+  }
+
+  # markdown-previewプラグインのトグル（Markdownファイルでのみ表示）
+  {
+    type: "button"
+    icon: "markdown"
+    callback: "markdown-preview:toggle"
+    tooltip: "Markdown Preview"
+    hide: "!Markdown"
+  }
+
+  # 区切り線
+  {
+    type: "spacer"
+  }
+
+  # flex-tool-barプラグインの設定ファイルを開く
+  # 設定で表示できるけど、ギアアイコンは他で使いそうだったので別のアイコンにするため。
+  {
+    type: "button"
+    icon: "ellipsis"
+    callback: "flex-tool-bar:edit-config-file"
+    tooltip: "Edit ToolBar Button"
+    style: {
+        color: "#555555"
+    }
+  }
+
+]
