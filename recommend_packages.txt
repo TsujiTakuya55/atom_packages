@@ -6,5 +6,4 @@ highlight-selected
 file-icons
 autocomplete-paths
 editorconfig
-tool-bar
-flex-tool-bar
+platformio-ide-terminal
