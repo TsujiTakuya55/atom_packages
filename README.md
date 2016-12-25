@@ -1,6 +1,6 @@
 # atom_packages
 
-## Atomのパッケージ管理ファイル
+- Atomのパッケージ管理ファイル
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE) [![Language](http://img.shields.io/badge/language-Google Apps Script-brightgreen.svg?style=flat)](https://developers.google.com/apps-script/)
 --------------------------------------------------------------------------------
