@@ -7,9 +7,9 @@
 
 ## Table of Contents
 
-- [Requirements](#Requirements)
-- [Usage](#Usage)
-- [License](#License)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [License](#license)
 
 ## Requirements
 
