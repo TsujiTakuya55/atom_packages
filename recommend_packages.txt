@@ -8,3 +8,5 @@ autocomplete-paths
 editorconfig
 platformio-ide-terminal
 markdown-preview-plus
+linter
+linter-jsonlint
