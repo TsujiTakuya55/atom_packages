@@ -2,7 +2,10 @@
 
 - Atomのパッケージ管理ファイル
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE) [![Language](http://img.shields.io/badge/language-Google Apps Script-brightgreen.svg?style=flat)](https://developers.google.com/apps-script/)
+LICENSE : [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/konifar/fab-transformation/blob/master/LICENSE)
+<br>
+LANGUAGE : [![Language](http://img.shields.io/badge/language-Google Apps Script-brightgreen.svg?style=flat)](https://developers.google.com/apps-script/)
+
 --------------------------------------------------------------------------------
 
 ## Table of Contents
